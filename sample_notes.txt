@@ -1,0 +1,4 @@
+This project is about AI and automation.
+Copilot Chat can help you build small agents quickly.
+AI assistants are useful for summarizing text, filtering files, and handling routine tasks.
+This document is a sample input for testing the agent scripts.
